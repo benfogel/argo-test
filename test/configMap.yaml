@@ -3,4 +3,5 @@ kind: ConfigMap
 metadata:
   name: ben-cm
 data:
-  user: $USER
+  user: _MEDUSA_USER_
+  
